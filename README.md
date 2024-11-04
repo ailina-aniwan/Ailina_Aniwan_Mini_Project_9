@@ -1,7 +1,7 @@
-[![Install](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/install.yml)
-[![Format](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/format.yml)
-[![Lint](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/lint.yml)
-[![Test](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/test.yml)
+[![Install](https://github.com/ailina-aniwan/Ailina_Aniwan_Mini_Project_9/actions/workflows/install.yml/badge.svg)](https://github.com/ailina-aniwan/Ailina_Aniwan_Mini_Project_9/actions/workflows/install.yml)
+[![Format](https://github.com/ailina-aniwan/Ailina_Aniwan_Mini_Project_9/actions/workflows/format.yml/badge.svg)](https://github.com/ailina-aniwan/Ailina_Aniwan_Mini_Project_9/actions/workflows/format.yml)
+[![Lint](https://github.com/ailina-aniwan/Ailina_Aniwan_Mini_Project_9/actions/workflows/lint.yml/badge.svg)](https://github.com/ailina-aniwan/Ailina_Aniwan_Mini_Project_9/actions/workflows/lint.yml)
+[![Test](https://github.com/ailina-aniwan/Ailina_Aniwan_Mini_Project_9/actions/workflows/test.yml/badge.svg)](https://github.com/ailina-aniwan/Ailina_Aniwan_Mini_Project_9/actions/workflows/test.yml)
 # IDS706 - Mini Project 9 - Ailina Aniwan
 
 ## Cloud-Hosted Notebook Data Manipulation
