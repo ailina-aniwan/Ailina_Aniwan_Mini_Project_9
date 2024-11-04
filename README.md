@@ -2,51 +2,25 @@
 [![Format](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/format.yml)
 [![Lint](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/lint.yml)
 [![Test](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/test.yml)
-# IDS706 - Individual Project 1 - Ailina Aniwan
+# IDS706 - Mini Project 9 - Ailina Aniwan
 
-## Continous Integration using Github Actions of Python Data Science Project
+- Set up a cloud-hosted Jupyter Notebook (e.g., Google Colab)
+- Perform data manipulation tasks on a sample dataset
 
-## Overview
-This project demonstrates the implementation of continuous integration practices in a Python Data Science project, focusing on automating the workflows for formatting, linting, testing, and dependency installation using GitHub Actions. The project incorporates a Python script and a Jupyter Notebook that both perform descriptive statistical analysis. This setup exemplifies best practices in code development, version control, and automated testing to ensure code quality and functionality.
+## Cloud-Hosted Notebook Data Manipulation
 
-## YouTube Video
-[Click Here For Demo](https://www.youtube.com/watch?v=pGTLPDXGixA)
+This project demonstrates cloud-hosted data manipulation using a Jupyter Notebook in Google Colab. The project performs descriptive statistical analysis on global alcohol consumption data, leveraging cloud-based resources for computation. The Colab setup ensures accessibility and scalability, making it easier for others to view and reproduce the analysis.
 
-## Project Directory
-```
-Ailina_Aniwan_Individual_Project_1/
-├── .devcontainer/
-│   ├── devcontainer.json
-│   └── Dockerfile
-├── .github/
-│   └── workflows/
-│       ├── format.yml
-│       ├── install.yml
-│       ├── lint.yml
-│       └── test.yml
-├── mylib/
-│   ├── __init__.py
-│   └── lib.py
-├── .gitignore
-├── Dockerfile
-├── figure.png
-├── LICENSE
-├── lint.png
-├── main.ipynb
-├── main.py
-├── Makefile
-├── README.md
-├── repeat.sh
-├── requirements.txt
-├── setup.sh
-├── summary.md
-├── test_lib.py
-├── test_main.py
-└── test.png
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ailina-aniwan/Ailina_Aniwan_Mini_Project_9/blob/main/main.ipynb)
 
-```
+## Instructions for Running in Google Colab
 
-## Project Overview
+1. Open the notebook directly in Google Colab by clicking on the **Open in Colab** badge above.
+2. The notebook will clone the GitHub repository and load the dataset for processing.
+3. Run each cell in sequence to view the data analysis and visualizations.
+
+
+## Project Description
 This project analyzes global alcohol consumption using the **drinks.csv** dataset from [FiveThirtyEight](https://github.com/fivethirtyeight/data). It uses Python with **Pandas** for statistical analysis and **Matplotlib** for data visualization to explore the consumption of beer, spirits, and wine across different countries.
 
 ## Data Source
@@ -77,15 +51,3 @@ According to the chart:
 - **Spirit Servings**: Spirits show high variability, as the standard deviation is almost equal to the mean, indicating greater inconsistency in consumption across countries.
 - **Wine Servings**: Wine has the lowest mean and median, but a relatively large standard deviation, indicating that while average consumption is low, there are significant outliers.
 
-## Check format and test errors
-1. Format code `make format`
-2. Lint code `make lint`
-
-![Make lint](lint.png)
-
-3. Test code `make test`
-
-![Make test](test.png)
-
-## References
-https://github.com/nogibjj/python-ruff-template
