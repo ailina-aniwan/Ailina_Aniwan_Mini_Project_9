@@ -4,9 +4,6 @@
 [![Test](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Ailina_Aniwan_Individual_Project_1/actions/workflows/test.yml)
 # IDS706 - Mini Project 9 - Ailina Aniwan
 
-- Set up a cloud-hosted Jupyter Notebook (e.g., Google Colab)
-- Perform data manipulation tasks on a sample dataset
-
 ## Cloud-Hosted Notebook Data Manipulation
 
 This project demonstrates cloud-hosted data manipulation using a Jupyter Notebook in Google Colab. The project performs descriptive statistical analysis on global alcohol consumption data, leveraging cloud-based resources for computation. The Colab setup ensures accessibility and scalability, making it easier for others to view and reproduce the analysis.
